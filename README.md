@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levi-Chinecherem
 - 👀 I’m interested in python programming, algo trade, backend dev etc
-- 🌱 I’m currently learning django, docker, aws etc 
+- 🌱 I’m currently working django, rest api, testing, automations etc 
 - 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me, levi.chinecherem@yahoo.com
 
