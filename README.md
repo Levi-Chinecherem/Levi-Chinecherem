@@ -15,6 +15,27 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi-chinecherem&show_icons=true&locale=en" alt="levi-chinecherem" /></p>
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Levi-Chinecherem/canvas-series-fibonnacci"><img width="278" src="https://github.com/Levi-Chinecherem/canvas-series-fibonnacci/blob/master/preview2.PNG?raw=true" alt="canvas-series-fibonnacci"></a>
+  <a href="https://github.com/Levi-Chinecherem/speed"><img width="278" src="https://github.com/Levi-Chinecherem/speed/blob/main/static/images/banner-bg.png" alt="speed"></a>
+  <a href="https://github.com/Levi-Chinecherem/QuestGig"><img width="278" src="https://github.com/Levi-Chinecherem/QuestGig/raw/main/photos/crawler_logo.PNG" alt="questgig"></a>
+  <a href="https://github.com/Levi-Chinecherem/canva-series-noise"><img width="278" src="https://github.com/Levi-Chinecherem/canva-series-noise/raw/master/review.PNG" alt="canvas-series-noise"></a>
+  <a href="https://github.com/Levi-Chinecherem/bid-u"><img width="278" src="https://github.com/Levi-Chinecherem/bid-u/blob/main/static/images/logo/bid-u-big.png" alt="bid-u"></a>
+  <a href="https://github.com/Levi-Chinecherem/youtube-downloader"><img width="278" src="https://github.com/Levi-Chinecherem/Levi-Chinecherem/assets/74856946/5946ddd3-fd37-4c80-9b4b-68f536f0746a" alt="youtube video downloader"></a>
+  
+  <a href="https://github.com/Levi-Chinecherem/canva-series-noise"><img width="278" src="https://github.com/Levi-Chinecherem/canva-series-noise/raw/master/review.PNG" alt="canvas-series-noise"></a>
+  <a href="https://github.com/Levi-Chinecherem/canva-series-noise"><img width="278" src="https://github.com/Levi-Chinecherem/canva-series-noise/raw/master/review.PNG" alt="canvas-series-noise"></a>
+  <a href="https://github.com/Levi-Chinecherem/canva-series-noise"><img width="278" src="https://github.com/Levi-Chinecherem/canva-series-noise/raw/master/review.PNG" alt="canvas-series-noise"></a>
+  </p>
+
+  <a href="https://github.com/Levi-Chinecherem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi-chinecherem" alt="levi-chinecherem" /></a> </p>
 
 # 💻 Tech Stack:
