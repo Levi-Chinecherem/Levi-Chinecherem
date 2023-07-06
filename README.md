@@ -8,12 +8,12 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=levi-chinecherem&label=Profile%20views&color=0e75b6&style=flat" alt="levi-chinecherem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Levi-Chinecherem&label=Profile%20views&color=0e75b6&style=flat" alt="levi-chinecherem" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levi-chinecherem&show_icons=true&locale=en&layout=compact" alt="levi-chinecherem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Levi-Chinecherem&show_icons=true&locale=en&layout=compact" alt="levi-chinecherem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi-chinecherem&show_icons=true&locale=en" alt="levi-chinecherem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Levi-Chinecherem&show_icons=true&locale=en" alt="levi-chinecherem" /></p>
 
 <details open> 
   <summary><h2>📘 Open Source Projects</h2></summary>
@@ -21,6 +21,8 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
+  <a href="https://github.com/Levi-Chinecherem/timetable_mgt_django"><img width="278" src="https://github.com/Levi-Chinecherem/timetable_mgt_django/blob/master/sample.PNG" alt="timetable management system with Django"></a>
+  <a href="https://github.com/Levi-Chinecherem/timetable_mgt_js"><img width="278" src="https://github.com/Levi-Chinecherem/timetable_mgt_js/blob/master/Capture.PNG" alt="timetable management system with javascript"></a>
   <a href="https://github.com/Levi-Chinecherem/canvas-series-fibonnacci"><img width="278" src="https://github.com/Levi-Chinecherem/canvas-series-fibonnacci/blob/master/preview2.PNG?raw=true" alt="canvas-series-fibonnacci"></a>
   <a href="https://github.com/Levi-Chinecherem/canva-series-noise"><img width="278" src="https://github.com/Levi-Chinecherem/canva-series-noise/raw/master/review.PNG" alt="canvas-series-noise"></a>
   <a href="https://github.com/Levi-Chinecherem/youtube-downloader"><img width="278" src="https://github.com/Levi-Chinecherem/Levi-Chinecherem/assets/74856946/5946ddd3-fd37-4c80-9b4b-68f536f0746a" alt="youtube video downloader"></a>
@@ -35,7 +37,7 @@
   <a href="https://github.com/Levi-Chinecherem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levi-chinecherem" alt="levi-chinecherem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Levi-Chinecherem" alt="levi-chinecherem" /></a> </p>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
