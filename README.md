@@ -239,7 +239,7 @@
 <p align="center"></p>
 
 
-<h3 align="center">
+<h3 align="left">
 Acknowledgements 
 </br> </h3>
  
