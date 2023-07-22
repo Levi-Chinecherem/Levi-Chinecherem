@@ -153,6 +153,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center" >
+    <a href="https://github.com/Levi-Chinecherem/assignment-submission-system"><img width="278" src="https://github.com/Levi-Chinecherem/assignment-submission-system/blob/master/sample.PNG" alt="Assignment System"></a>
     <a href="https://github.com/Levi-Chinecherem/semantic"><img width="278" src="https://github.com/Levi-Chinecherem/semantic/blob/master/sample.PNG" alt="Semantic on canvas"></a>
     <a href="https://github.com/Levi-Chinecherem/doc_search"><img width="278" src="https://github.com/Levi-Chinecherem/doc_search/blob/master/sample.PNG" alt="documentary search system with Django"></a>
     <a href="https://github.com/Levi-Chinecherem/timetable_mgt_django"><img width="278" src="https://github.com/Levi-Chinecherem/timetable_mgt_django/blob/master/sample.PNG" alt="timetable management system with Django"></a>
