@@ -3,14 +3,31 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
+
+## My Intern:
+Did my internship at GreenDuck Offshore Ltd. at port-harcourt, rivers state, Nigeria,
+they where mainly focussed on vendouring oil and gas tools to oil and gas companies round Nigeria.
+my internship was from late 2019, to early 2020 and it lasted for 7 months. During the covid-19 era.
+
+During and after this period i served as a security evangelist, creating awareness of cyber crimes, 
+and how to avoid them, i spoke in many occassions on this security bridges and there danger to everyone, 
+i was called on many church occassions and others to speak on this field, i started serving as security analyst to many,
+as i'll be called on to configure their phones and systems to prevent such loopholes, also to give them guide on what to do and what not to do to be safe, 
+i also created awareness about bank frauds and more.
+
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
@@ -61,7 +78,7 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-wine-gif.gif" width="30">
 </br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Levi-Chinecherem&label=Profile%20views&color=0e75b6&style=flat" alt="levi-chinecherem" /> </p>
@@ -232,13 +249,8 @@
 </h4>
 
 
-<h3 align="center">
-📛Github Usernames📛 
-</br> </h3>
-<img src="https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <p align="center"></p>
 
 
