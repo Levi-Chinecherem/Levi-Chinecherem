@@ -28,6 +28,8 @@ i was called on many church occassions and others to speak on this field, i star
 as i'll be called on to configure their phones and systems to prevent such loopholes, also to give them guide on what to do and what not to do to be safe, 
 i also created awareness about bank frauds and more.
 
+After my internship, till date ive dedicated my time to building my skill by building student school project softwares.
+
 
 <!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
 <p align="center">
