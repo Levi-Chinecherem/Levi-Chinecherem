@@ -155,9 +155,10 @@ After my internship, till date ive dedicated my time to building my skill by bui
  <a href="https://github.com/Levi-Chinecherem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Levi-Chinecherem" alt="levi-chinecherem" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Levi-Chinecherem" alt="levi-chinecherem" />
+</a> </p>
 
-    
 
 
 
